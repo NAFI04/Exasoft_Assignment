@@ -63,7 +63,7 @@ Output:
 
 How to Run:
 
-1. Open PowerShell in the repository folder (<path-to-folder>\Exasoft_Assignment).
+1. Open PowerShell in the repository folder ( <path-to-folder>\Exasoft_Assignment ).
 
 2. Compile the program:
 C:\MinGW\bin\g++ assignment_1\reverse_words.cpp -o assignment_1\reverse_words.exe
@@ -87,7 +87,7 @@ Version comes from environment variable BuildNum.
 
 Files are located under:
 
-<path-to-folder>\Exasoft_Assignment\develop\global\src
+<path-to-folder> \Exasoft_Assignment\develop\global\src
 
 Approach:
 
@@ -110,7 +110,7 @@ Approach:
 How to Run:
 
 1. Set environment variables in PowerShell:
-$env:SourcePath="<path-to-folder>\Exasoft_Assignment"
+$env:SourcePath=" <path-to-folder> \Exasoft_Assignment"
 $env:BuildNum="999"
 
 
